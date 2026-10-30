@@ -1,0 +1,8 @@
+{
+  "name": "LearnMate AI Tutor",
+  "description": "An advanced, friendly AI Tutor that teaches step-by-step across mathematics, science, English, computer science, and more with interactive chat and custom quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
